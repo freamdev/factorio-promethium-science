@@ -1,0 +1,12 @@
+{
+  "name": "promethium_infinite_research",
+  "version": "1.0.1",
+  "title": "Promethium Infinite Research",
+  "author": "freamdev",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age >= 2.0.0"
+  ],
+  "description": "Splits every infinite research so that after rank 10, the continuation requires promethium science in the same amount as space science."
+}
